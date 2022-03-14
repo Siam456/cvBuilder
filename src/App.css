@@ -1,0 +1,20 @@
+.App{
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+
+input{
+  border: none;
+  padding: 15px 20px;
+  background: #EFF2F9;
+  border-radius: 2px;
+  border-bottom: 2px solid #EFF2F9;
+  width: 80%;
+}
+input:focus{
+  outline: none;
+  border-bottom: 2px solid #4dabf5;
+  border-radius: 2px;
+}
+
